@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3700284456
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 726be0980f1bc5306a8775975420f096
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/BuildResources/UI/Res/frame_stageframe_04_s 1.png
+Dependencies: []

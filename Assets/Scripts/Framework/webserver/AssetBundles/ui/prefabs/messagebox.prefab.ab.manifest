@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 517341185
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39eb5edb00b3db92f6be07ab02c2765b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 04cd8a6bc6173f5197c391b3f67a398e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 93c1450f1e9e5b24b9741dc9099ae0ae, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/BuildResources/UI/Prefabs/messagebox.prefab
+Dependencies:
+- F:/Unity Projects/SLua Demo/Assets/StreamingAssets/ui/res/btn_icon_check 1.png.ab
+- F:/Unity Projects/SLua Demo/Assets/StreamingAssets/ui/res/btn_icon_clear 1.png.ab
+- F:/Unity Projects/SLua Demo/Assets/StreamingAssets/ui/res/btn_icon_undo 1.png.ab
+- F:/Unity Projects/SLua Demo/Assets/StreamingAssets/ui/res/frame_stageframe_04_s
+  1.png.ab

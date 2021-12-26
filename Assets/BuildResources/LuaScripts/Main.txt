@@ -1,0 +1,34 @@
+import "UnityEngine"
+
+function main()
+    print("Lua创建了一个Cube")
+    local cube = GameObject.CreatePrimitive(PrimitiveType.Cube)
+end
+
+function Awake()
+    print("Awake")
+end
+
+function Start()
+    print("Start")
+end
+
+function FixedUpdate()
+    print("FixedUpdate")
+end
+
+function Update()
+    print("Update")
+end
+
+function LateUpdate()
+    print("LateUpdate")
+end
+
+function OnDisable()
+    print("OnDisable")
+end
+
+function OnDestroy()
+    print("OnDestroy")
+end

@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 2649788048
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 988400e850ee1baf7dcdf02ca9cdf2d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7c0a297094f79a665bb80579a445904e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f00fb65f04f7bc44a80edc9de3269d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a8b49c775180d954d9cd5c7c90ee3c54, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/BuildResources/UI/Prefabs/myBag.prefab
+Dependencies:
+- F:/Unity Projects/SLua Demo/Assets/StreamingAssets/ui/res/btn_icon_undo 1.png.ab
+- F:/Unity Projects/SLua Demo/Assets/StreamingAssets/ui/res/frame_stageframe_00_d
+  1.png.ab
+- F:/Unity Projects/SLua Demo/Assets/StreamingAssets/ui/res/frame_stageframe_01_n
+  1.png.ab
+- F:/Unity Projects/SLua Demo/Assets/StreamingAssets/ui/res/frame_stageframe_04_d
+  1.png.ab
+- F:/Unity Projects/SLua Demo/Assets/StreamingAssets/ui/res/label_flag_01_blue 1.png.ab

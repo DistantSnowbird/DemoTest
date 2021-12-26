@@ -1,0 +1,15 @@
+Assets/BuildResources/LuaScripts/Main.txt|luascripts/main.txt.ab
+Assets/BuildResources/UI/Prefabs/messagebox.prefab|ui/prefabs/messagebox.prefab.ab|Assets/BuildResources/UI/Res/frame_stageframe_04_s 1.png|Assets/BuildResources/UI/Res/btn_icon_check 1.png|Assets/BuildResources/UI/Res/btn_icon_clear 1.png|Assets/BuildResources/UI/Res/btn_icon_undo 1.png
+Assets/BuildResources/UI/Prefabs/myBag.prefab|ui/prefabs/mybag.prefab.ab|Assets/BuildResources/UI/Res/frame_stageframe_04_d 1.png|Assets/BuildResources/UI/Res/frame_stageframe_00_d 1.png|Assets/BuildResources/UI/Res/label_flag_01_blue 1.png|Assets/BuildResources/UI/Res/btn_icon_undo 1.png|Assets/BuildResources/UI/Res/frame_stageframe_01_n 1.png
+Assets/BuildResources/UI/Res/btn_icon_check 1.png|ui/res/btn_icon_check 1.png.ab
+Assets/BuildResources/UI/Res/btn_icon_clear 1.png|ui/res/btn_icon_clear 1.png.ab
+Assets/BuildResources/UI/Res/btn_icon_undo 1.png|ui/res/btn_icon_undo 1.png.ab
+Assets/BuildResources/UI/Res/btn_rectangle_01_n_white 1.png|ui/res/btn_rectangle_01_n_white 1.png.ab
+Assets/BuildResources/UI/Res/frame_stageframe_00_d 1.png|ui/res/frame_stageframe_00_d 1.png.ab
+Assets/BuildResources/UI/Res/frame_stageframe_01_n 1.png|ui/res/frame_stageframe_01_n 1.png.ab
+Assets/BuildResources/UI/Res/frame_stageframe_01_s3.png|ui/res/frame_stageframe_01_s3.png.ab
+Assets/BuildResources/UI/Res/frame_stageframe_04_d 1.png|ui/res/frame_stageframe_04_d 1.png.ab
+Assets/BuildResources/UI/Res/frame_stageframe_04_s 1.png|ui/res/frame_stageframe_04_s 1.png.ab
+Assets/BuildResources/UI/Res/icon_itemicon_moneybag 1.png|ui/res/icon_itemicon_moneybag 1.png.ab
+Assets/BuildResources/UI/Res/icon_itemicon_sword 1.png|ui/res/icon_itemicon_sword 1.png.ab
+Assets/BuildResources/UI/Res/label_flag_01_blue 1.png|ui/res/label_flag_01_blue 1.png.ab
